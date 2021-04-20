@@ -1,4 +1,4 @@
-# Understanding patterns or deviations landing profiles of aeroplanes with Unsupervised learning
+# Understanding patterns or deviations landing profiles of aeroplanes with unsupervised learning
 
 Used Airbus data from Opensky Network: https://opensky-network.org/datasets/states/airbus_tree.csv
 
